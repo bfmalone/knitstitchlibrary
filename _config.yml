@@ -14,20 +14,20 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /knitstitchlibrary_draft 
 # location of code, the full url to your github repository
-source-code: https://github.com/bfmalone/knitstitchlibrary_draft
+source-code: https://bfmalone.github.io/knitstitchlibrary_draft/
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Knit Stitch Library 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A small collection of popular, pretty, and interesting knit stitches for any project. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Knit Stitch Library is a collection for knitters interested in getting information and instructions on verious knitting stitches."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: bfmalone
 
 ##########
 # COLLECTION SETTINGS
