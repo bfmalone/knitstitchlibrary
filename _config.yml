@@ -14,7 +14,7 @@ url: https://bfmalone.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /knitstitchlibrary_draft 
 # location of code, the full url to your github repository
-source-code: https://bfmalone.github.io/knitstitchlibrary_draft/
+source-code: https://github.com/bfmalone/knitstitchlibrary_draft
 
 ##########
 # SITE SETTINGS
