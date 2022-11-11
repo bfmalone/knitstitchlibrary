@@ -1,4 +1,4 @@
-objectid,filename,title,format,description,pattern instructions,origin,subject,educationLevel
+objectid,filename,title,format,description,patterninstructions,origin,subject,educationLevel
 garter_knitpurl,garter_knitpurl.jpg,Garter Stitch,image/jpeg,"One of the first stitches any knitters learns, garter stitch involves row after row of simple knit stitches.",,,"knits and purls, simple patterns",Beginner
 stockinette_knitpurl,stockinette_knitpurl.jpg,Stockinette Stitch,image/jpeg,"Stockinette is a simple stitch for any knitter. To create a fabric with stockinette stitch, one has to alternate rows of knit and purl stitches.",,,"knits and purls, simple patterns",Beginner
 moss_knitpurl,moss_knitpurl.jpg,Moss Stitch,image/jpeg,"Seed stitch is a pretty, simple stitch that comes from alternating knit and purl stitches, it uses a two row repeat to create the stitch texture. ",,Britain,knits and purls,Beginner
