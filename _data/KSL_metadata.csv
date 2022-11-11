@@ -1,0 +1,44 @@
+objectid,filename,title,format,description,pattern instructions,origin,subject,educationLevel
+garter_knitpurl,garter_knitpurl.jpg,Garter Stitch,image/jpeg,"One of the first stitches any knitters learns, garter stitch involves row after row of simple knit stitches.",,,"knits and purls, simple patterns",Beginner
+stockinette_knitpurl,stockinette_knitpurl.jpg,Stockinette Stitch,image/jpeg,"Stockinette is a simple stitch for any knitter. To create a fabric with stockinette stitch, one has to alternate rows of knit and purl stitches.",,,"knits and purls, simple patterns",Beginner
+moss_knitpurl,moss_knitpurl.jpg,Moss Stitch,image/jpeg,"Seed stitch is a pretty, simple stitch that comes from alternating knit and purl stitches, it uses a two row repeat to create the stitch texture. ",,Britain,knits and purls,Beginner
+doublemoss_knitpurl,doublemoss_knitpurl.jpg,Double Moss Stitch,image/jpeg,"Incredibly similar to seed stitch, double seed stitch simply has another knit or purl added to each repeat, making the pattern slightly extended. It also relies on a four row repeat rather than a two row repeat. ",,"United States, Ireland",knits and purls,Beginner
+basketweave_knitpurl,basketweave_knitpurl.jpg,Basketweave Stitch,image/jpeg,Basketweave stitch uses knit and purl stitches to create a patern similar to a woven basket. ,"Cast on multiple of 8 sts + 4. 
+Row 1 (Wrong side): p2 *k6, p2, rep from * to end. 
+Row 2: k2, “p6, k2, rep from * to end.
+Row 3: p2 *k6, p2, rep from * to end.
+Row 4: k all stitches. 
+Row 5: k4, p2, *k6, p2, rep from * to last 4 sts, k4.
+Row 6: p4, k2, *p6, k2, rep from * to last 4 sts, p4.
+Row 7: k4, p2, *k6, p2, rep from * to last 4 sts, k4.
+Row 8: k all stitches.  
+Repeat rows 1-8 until you have reached your desired length.",,knits and purls,Beginner
+ribandwelt_knitpurl,ribandwelt_knitpurl.jpg,Rib and Welt Stitch,image/jpeg,xxxxx,,,knits and purls,Beginner
+dandelion_florals,dandelion_florals.jpg,Dandelion Flowers,image/jpeg,"Dandelion Stitch is a beautiful decorative design that displays simple flowers on a stockinette background. It can be tricky to start off with for a beginner due to some of the actions necessary, but once you get the hang of it can go fairly quickly. ",,,floral knitting,Intermediate
+daisy_florals,daisy_florals.jpg,Daisy Stitch,image/jpeg,"Daisy stitch (or star stitch) is a beautiful floral pattern created by a four row repeat. Creating the pattern with two colors instead of one can really make it pop! Because it's so squishy, it is perfect for scarves, sweaters, and blankets. ",,,floral knitting,Intermediate
+cornflowers_florals,cornflowers_florals.jpg,Cornflower Stitch,image/jpeg,Basketweave stitch uses knit and purl stitches to create a patern similar to a woven basket. ,,,floral knitting,Beginner
+twist_zigzag,twist_zigzag.jpg,Twisted Zigzag,image/jpeg,xxxxx,,,zigzag stitches,Intermediate
+herringbone_zigzag,herringbone_zigzag.jpg,Herringbone Stitch,image/jpeg,xxxxx,,,zigzag stitches,Intermediate
+garter_zigzag,garter_zigzag.jpg,Garter Zigzag,image/jpeg,xxxxx,,,zigzag stitches,Intermediate
+crisscross_zigzag,crisscross_zigzag.jpg,Crisscross Zigzag,image/jpeg,xxxxx,,,zigzag stitches,Intermediate
+diamondlattice_cable,diamondlattice_cable.jpg,Diamond Lattice,image/jpeg,xxxxx,,,cable knitting,Intermediate
+crossstitch_cable,crossstitch_cable.jpg,Cross Stitch Cable,image/jpeg,xxxxx,,,cable knitting,Intermediate
+wishbone_cable,wishbone_cable.jpg,Wishbone Cable,image/jpeg,xxxxx,,,cable knitting,Intermediate
+slipstitch_rib,slipstitch_rib.jpg,Slip Stitch Rib,image/jpeg,xxxxx,,,cable knitting,Intermediate
+hurdlestitch_rib,hurdlestitch_rib.jpg,Hurdle Stitch,image/jpeg,xxxxx,,,ribbed knitting,Beginner
+bamboostitch_rib,bamboostitch_rib.jpg,Bamboo Stitch,image/jpeg,"Bamboo stitch is a fairly simple knit and purl rib pattern that resembles stalks of bamboo. It can be used for a variety of projects, but it is important to note that it is not reversible!",,,ribbed knitting,Beginner
+ginko_lace,ginko_lace.jpg,Ginko Leaf,image/jpeg,"Ginko leaf is a pretty lace stitch that resembles ginko leaves. Though it can be tricky, it isn't a bad pattern to attempt for a knitter interested in starting with lace. ",,,knitted lace,Advanced
+arrowhead_lace,arrowhead_lace.jpg,Arrowhead Lace,image/jpeg,xxxxx,,,knitted lace,Advanced
+eyeletweave_lace,eyeletweave_lace.jpg,Eyelet Weave,image/jpeg,xxxxx,,,knitted lace,Advanced
+waves_lace,waves_lace.jpg,Waves,image/jpeg,"The wave stitch is a very pretty pattern that while looks difficult to master, can actually be a simple lace stitch. It is perfect for scarves and shawls. ",,,knitted lace,Advanced
+diagonal_lace,diagonal_lace.jpg,Diagonal Lace,image/jpeg,Diagonal lace stitch is a pretty and somewhat easy lace stitch. It can be a beautiful pattern for scarves in fingering weight yarn. ,"Cast on multiple of 8 sts + 4. 
+Row 1 (Right side): k2, *yo, sl 1, k1, psso, k1, k2tog, yo, k3, rep from * to last 2 sts, k2.
+Row 2: p7, *p2tog tbl, yo, p6; rep from * to last 5 sts, p2tog tbl, yo, p3.
+Row 3: k4, *yo, sl 1, k1, psso, k1, k2tog, yo, k3; rep from * to end.
+Row 4: p5, *p2tog tbl, yo, p6; rep from * to last 7 sts, p2tog tbl, yo, p5.
+Row 5: k1, *k2tog, yo, k3, yo, sl 1, k1, psso, k1; rep from * to last 3 sts, k2tog, yo, k1.
+Row 6: p3, *p2tog tbl, yo, p6; rep from * to last st, p1.
+Row 7: k3, *k2tog, yo, k3, yo, sl 1, k1, psso, k1; rep from * to last st, k1.
+Row 8: p1, *p2tog tbl, yo, p6; rep from * to last 3 sts ,p2tog tbl, yo, p1.
+Repeat rows 1-8 until you have reached your desired length.",,knitted lace,Advanced
+turkish_lace,turkish_lace.jpg,Turkish Stitch,image/jpeg,xxxxx,,,knitted lace,
