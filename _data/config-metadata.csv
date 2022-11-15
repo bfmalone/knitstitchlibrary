@@ -1,16 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+educationLevel, Difficulty, true
 description,Description,
 patterninstructions, Pattern Instructions,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+needlesize, Example Needle Size
+yarnweight, Example Yarn Weight
+origin, Origin, true
+identifier,Source Identifier,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
