@@ -1,0 +1,281 @@
+objectid,filename,title,format,description,name,abbreviations,specialinstructions,patterninstructions,origin,subject,educationLevel,needlesize,yarnweight
+garter_knitpurl,garter_knitpurl.jpg,Garter Stitch,image/jpeg,"One of the first stitches any knitters learns, garter stitch involves row after row of simple knit stitches.",,,,"Cast on any number of stitches
+Row 1 (Right side): knit all stitches
+Row 2 (Wrong side): knit all stitches
+Repeat rows 1-2 until you have reached your desired length. 
+Bind off and weave in all ends. ",,knit and purl patterns,Beginner,US - 8 ,Worsted
+stockinette_knitpurl,stockinette_knitpurl.jpg,Stockinette Stitch,image/jpeg,"Stockinette is a simple stitch for any knitter. To create a fabric with stockinette stitch, one has to alternate rows of knit and purl stitches.",,,,"Cast on any number of stitches
+Row 1 (Right side): knit all stitches
+Row 2 (Wrong side): purl all stitches
+Repeat rows 1-2 until you have reached your desired length. 
+Bind off and weave in all ends.",,knit and purl patterns,Beginner,US - 11,Worsted
+moss_knitpurl,moss_knitpurl.jpg,Moss Stitch,image/jpeg,"Seed stitch is a pretty, simple stitch that comes from alternating knit and purl stitches, it uses a two row repeat to create the stitch texture. Moss stitch is perfect for all projects, big and small. ",,"k - Knit, p - Purl",,"Cast on an odd number of stitches
+Row 1: (Right Side) * k1, p1, rep from * to last st, k1
+Row 2: (Wrong Side) k1, * p1, k1, rep from * to end
+Repeat rows 1-2 until you have reached your desired length. 
+Bind off and weave in all ends.",,knit and purl patterns,Beginner,US - 8 ,Worsted
+irishmoss_knitpurl,irishmoss_knitpurl.jpg,Irish Moss Stitch,image/jpeg,"Like moss stitch, Irish moss stitch uses knits and purls to create a textured fabric, but instead of alternating k1, p1 rows, you simply add another repeat, making the pattern a bit taller. Irish moss stitch is perfect for all projects, big and small. ",,"k - Knit, p - Purl",,"Cast on multiples of 2
+Row 1 (Right Side): * k1, p1, rep from * to end
+Row 2 (Wrong Side): * k1, p1 *
+Row 3: * p1, k1 *
+Row 4: * p1, k1 *
+Repeat rows 1-14 until you have reached your desired length. 
+Bind off and weave in all ends. ",Ireland,knit and purl patterns,Beginner,US - 8 ,Worsted
+doublemoss_knitpurl,doublemoss_knitpurl.jpg,Double Moss Stitch,image/jpeg,"Incredibly similar to moss stitch, double moss stitch simply has another knit or purl added to each repeat, making the pattern slightly extended. It also relies on a four row repeat rather than a two row repeat. Double moss stitch is perfect for all projects, big and small. ",,"k - Knit, p - Purl",,"Cast On: Multiples of 4 sts + 2
+Row 1 (Right side): *k2, p2, rep from * to last 2 sts, k2
+Row 2 (Wrong side) p2, *k2, p2, rep from * to end
+Row 3: *p2, k2, rep from * to last 2 sts, p2
+Row 4: k2, *p2, k2 rep from * to end
+Repeat rows 1-4 until you have reached your desired length. 
+Bind off and weave in all ends. ",,knit and purl patterns,Beginner,US - 8 ,Worsted
+basketweave_knitpurl,basketweave_knitpurl.jpg,Basketweave Stitch,image/jpeg,Basketweave stitch uses knit and purl stitches to create a patern similar to a woven basket. ,,"k - Knit, p - Purl",,"Cast on multiple of 8 sts + 4
+Row 1 (Wrong side): p2 *k6, p2, rep from * to end
+Row 2: k2, “p6, k2, rep from * to end
+Row 3: p2 *k6, p2, rep from * to end
+Row 4: knit all stitches. 
+Row 5: k4, p2, *k6, p2, rep from * to last 4 sts, k4
+Row 6: p4, k2, *p6, k2, rep from * to last 4 sts, p4
+Row 7: k4, p2, *k6, p2, rep from * to last 4 sts, k4
+Row 8: knit all stitches. 
+Repeat rows 1-8 until you have reached your desired length. Bind off and weave in all ends. ",,knit and purl patterns,Beginner,US - 8 ,Worsted
+ribandwelt_knitpurl,ribandwelt_knitpurl.jpg,Rib and Welt Stitch,image/jpeg,Rib and welt stitch creates a cool textured zig zag fabric with basic knit and purl stitches. This stitch can be used in any project and is great for beginner knitters!,,"k - Knit, p - Purl",,"Cast on multiples of 8
+Row 1 (Right side):  *k1, p1, k1, p5, rep from * to end
+Row 2 (Wrong side): k knit stitches and p purl stitches as they face you
+Row 3: k1, p1, *k5, p1, k1, p1,  rep from * to last 6 sts, k5, p1
+Row 4: k knit stitches and p purl stitches as they face you
+Row 5: k1, *p5, k1, p1, k1,  rep from * to last 7 sts, p5, k1, p1
+Row 6: k knit stitches and p purl stitches as they face you
+Row 7: *k5, p1, k1, p1,  rep from * to end
+Row 8: k knit stitches and p purl stitches as they face you
+Row 9: p4, *k1, p1, k1, p5, rep from * to last 4 sts, k1, p1, k1, p1
+Row 10: k knit stitches and p purl stitches as they face you.
+Row 11: k3, *p1, k1, p1, k5, rep from * to last 5 sts, p1, k1, p1, k2
+Row 12: k knit stitches and p purl stitches as they face you.
+Row 13: p2, *k1, p1, k1, p5, rep from * to last 6 sts, k1, p1, k1, p3
+Row 14: k knit stitches and p purl stitches as they face you.
+Row 15: k1, *p1, k1, p1, k5, rep from * to last 7 sts, p1, k1, p1, k4
+Row 16: k knit stitches and p purl stitches as they face you
+Repeat rows 1-16 until you have reached your desired length. 
+Bind off and weave in all ends. ",,knits and purls,Beginner,US - 8 ,Worsted
+dandelion_florals,dandelion_florals.jpg,Dandelion Flowers,image/jpeg,"Dandelion Stitch is a beautiful decorative design that displays simple flowers on a stockinette background. It can be tricky to start off with for a beginner due to some of the actions necessary, but once you get the hang of it can go fairly quickly. ",,"k: Knit
+p: Purl
+p2tog: Purl two stitches together","Flower: Pull up a loop from 3 rows below and leave on right-hand needle, k2, make a second loop into the same stitch 3 rows below, k2, make a third loop into the same stitch. ","Cast on multiple of 8 sts + 1
+Row 1 (Right side): knit all sts
+Row 2 (Wrong side): purl all sts
+Row 3: knit all stitches
+Row 4: purl all stitches
+Row 5: k3, flower, *k4, flower; rep from * to last 2 sts, k2
+Row 6: p2, (p2tog, p1) twice, p2tog, *p3, (p2tog, p1) twice, p2tog; rep from * to last 2 sts, p2
+Row 7: knit all stitches
+Row 8: purl all stitches
+Row 9: knit all stitches
+Row 10: purl all stitches
+Row 11: k7, *flower, k4; rep from * to last 2 sts, k2
+Row 12: p6, *(p2tog, p1) twice, p2tog, p3; rep from * to last 3 sts, p3
+Repeat rows 2-3 until you have reached your desired length. 
+Bind off and weave in all ends",,floral knitting,Intermediate,US - 8 ,Worsted
+daisy_florals,daisy_florals.jpg,Daisy Stitch,image/jpeg,"Daisy stitch is a beautiful floral pattern created by a four row repeat. Creating the pattern with two colors instead of one can really make it pop! Because it's so squishy, it is perfect for scarves, sweaters, and blankets. ",Star stitch,"k - Knit
+p - Purl
+yo - Yarn over
+p1w2 - Purl one stitch wrapping yarn twice around the needle","Daisy stitch - slip 5 stitches knit wise dropping extra loops, then slip them back to left needle and (k1, yo, k1, yo, k1) into each stitch through the back loop. ","Cast on multiples of 6 sts + 1
+Knit 1 row before beginning pattern. 
+Row 1 (Wrong Side): p1, *(p1w2) 5 times, p1, rep from * to end
+Row 2 (Right Side): k1, *daisy stitch, k1, rep from * to end
+Row 3: p4, *(p1w2) 5 times, p1, rep from * to last 3 sts, p3
+Row 4: k4, *daisy stitch, k1, rep from * to last 3 sts, k3
+Repeat rows 1-4 until you have reached your desired length. Bind off and weave in all ends.",,floral patterns,Intermediate,US - 8 ,Worsted
+cornflowers_florals,cornflowers_florals.jpg,Cornflowers,image/jpeg,"Cornflowers is an elegant floral stitch that creates lace flowers on a stockinette background. This is an advanced stitch, as it involves a lot of skill, but the final result is gorgeous! This pattern can be used in a multitude of projects, but would look very good on sweaters, socks, and shawls.",,"k - Knit
+p - Purl
+yo - Yarn over
+p5w2 - Purl 5 stitches wrapping yarn twice for each stitch
+sl1 wyif - Slip 1 stitch with yarn in front
+sl1 wyib - Slip 1 stitch with yarn in back
+k2tog - Knit 2 stitches together
+k2tog tbl- Knit 2 stitches together through back loop","Cornflower 1 - sl4 wyib, drop first elongated stitch off needle to front of work, slip same 4 stitches back to left needle, k2tog tbl, k3, sl3 wyib dropping extra loops, drop last elongated stitch off needle to front, sl4 wyib, pick up dropped stitch with left needle, slip same 4 stitches back to left needle, k3, k2tog
+Cornflower 2 - sl3 wyif, drop next elongated stitch off needle to front of work, slip same 3 stitches back to left needle, k2tog tbl, k2, sl1 wyib, drop next elongated stitch of needle to front, sl3 wyib, pick up dropped stitch with left needle, slip same 3 stitches back to left needle, k2, k2tog","Cast on multiple of 18 sts + 2
+Row 1 (Right side): k5, *(k1, yo, k1, yo, k1) into next st, k17, rep from * to last 15 sts, (k1, yo, k1, yo, k1) into next st, k14.
+Row 2 (Wrong side): p14, *p5w2, p17, rep from * to last 10 sts, p5w2, p5
+Row 3: k1, *cornflower 1, k9, rep from * to last st, k1. 
+Row 4: p14, *sl3 wyif, p17, rep from * to last 8 sts, sl3 wyif, p5
+Row 5: k2, *cornflower 2, k11, rep from * to end
+Row 6: purl all stitches 
+Row 7: k14, *(k1, yo, k1, yo, k1) into next st, k17, rep from * to last 6 sts, (k1, yo, k1, yo, k1) into next st, k5. 
+Row 8: p5, *p5w2, p17, rep from * to last 19 sts, p5w2, p14
+Row 9: k10, *cornflower 1, k9, rep from * to last st, k1
+Row 10: p5, *sl3 wyif, p17, rep from * to last 17 sts, sl3 wyif, p14. 
+Row 11: k11, *cornflower 2, k11, rep from * to last 2 sts, k2 
+Row 12: purl all stitches
+Repeat rows 1-12 until you have reached your desired length. Bind off and weave in all ends.",,floral patterns,Beginner,US - 8 ,Worsted
+garter_zigzag,garter_zigzag.jpg,Garter Zigzag,image/jpeg,Garter zigzag is a geometric pattern that creates garter zigzags on a stockinette background. This is a simple stitch that’s perfect for any project! ,,"k - Knit
+p - Purl",,"Cast on multiple of 6 sts
+Row 1 (Wrong side): purl all stitches
+Row 2 (Right side): *k3, p3; repeat from * to end
+Row 3: purl all stitches
+Row 4: p1, *k3, p3; repeat from * to end but end last repeat with p2 instead of p3
+Row 5: purl all stitches
+Row 6: p2, *k3, p3; repeat from * to end but end last repeat with p1 instead of p3
+Row 7: Purl all stitches
+Row 8: *p3, k3; repeat from * to end
+Row 9: purl all stitches
+Row 10: p2, *k3, p3; repeat from * to end but end last repeat with p1 instead of p3
+Row 11: purl all stitches
+Row 12: p1, *k3, p3; repeat from * to end but end last repeat with p2 instead of p3
+Repeat rows 1-12 until you have reached your desired length. Bind off and weave in all ends.",,"knit and purl pattern, zigzag patterns",Intermediate,US - 8 ,Worsted
+diamondlattice_cable,diamondlattice_cable.jpg,Diamond Lattice,image/jpeg,"Diamond lattice is a beautiful cable pattern that creates a fabric resembling lattice. This is an excellent stitch for sweaters, hats, and socks. ",,"k - Knit
+p - Purl","lt - Left twist (skip the first stitch, knit the second stitch through the back loop while keeping it on the needle, then knit the skipped stitch. Slip both stitches from the needle together)
+rt - Right twist (skip the first stitch, knit the second stitch while keeping it on the needle, then knit the skipped stitch. Slip both stitches from the needle together)
+","Cast on multiple of 8 sts + 2
+Row 1 (Wrong side): purl all stitches
+Row 2 (Right side): k1, *lt, k4, rt; rep from *, end k1.
+Row 3: purl all stitches
+Row 4: k2, *lt, k2, rt, k2; rep from *.
+Row 6: k3, *lt, rt, k4; rep from *, end lt, rt, k3.
+Row 8: k4, *rt, k6; rep from *, end rt, k4.
+Row 9: purl all stitches
+Row 10: k3, *rt, lt, k4; rep from *, end last repeat k3.
+Row 11: purl all stitches
+Row 12: k2, *rt, k2, lt, k2; rep from *.
+Row 13: purl all stitches
+Row 14: k1, *rt, k4, lt; rep from *, end k1.
+Row 15: purl all stitches
+Row 16: k8, *lt, k6; rep from *, end k2.
+Repeat rows 1-16 until you have reached your desired length. Bind off and weave in all ends.",,cable knitting,Intermediate,US - 8 ,Worsted
+corded_cable,corded_cable.jpg,Corded Cable Rib,image/jpeg,"Corded cable rib is a relatively simple cable pattern that creates columns of twisted cables. This pattern would be beautiful on hats and sweaters, though it could be used for any project. ",,"k - Knit
+p - Purl",,"Cast on multiples of 9 sts + 3
+Row 1 (Right Side): *p3, k6, rep from * to last 3 sts, p3
+Row 2 (Wrong Side): *p3, k6, rep from * to last 3 sts, p3
+Row 3: *p3, k6, rep from * to last 3 sts, p3
+Row 4: *k3, p6, rep from * to last 3 sts, k3
+Row 5: *p3, slip 3 stitches to cable needle and hold in back, k3, knit 3 stitches from cable needle, rep from * to last 3 sts, p3
+Row 6: *k3, p6, rep from * to last 3 sts, k3
+Repeat rows 1-6 until you have reached your desired length. Bind off and weave in all ends.",,"cable knitting, knitted rib",Intermediate,US - 8 ,Worsted
+wishbone_lace,wishbone_lace.jpg,Wishbone Stitch,image/jpeg,"There are multiple different kinds of wishbone stitches, but this particular pattern creates a relatively flat fabric with a lace motif similar to that of a wishbone. This wishbone pattern would be great for scarves, shawls, cowls, or socks!",,"k: Knit
+p: Purl
+s2kp: Slip 2 stitches together knit-wise, k1, pass 2 slipped stitches over ",,"Cast on  multiple of 8 sts + 1
+Row 1: *k1, yo, k2, s2kp, k2, yo, rep from * to last stitch, k1.
+Row 2: Purl all stitches.
+Row 3: *k2, yo, k1, s2kp, k1, yo, k1*, repeat between *s to last stitch, k1.
+Row 4: Purl all stitches.
+Row 5: *k3, yo, s2kp, yo, k2, rep from * to last stitch, k1.
+Row 6: Purl all stitches.
+Repeat rows 1-6 until you have reached your desired length. Bind off and weave in all ends.",,knitted lace,Intermediate,US - 11,Bulky
+fisherman_rib,fisherman_rib.jpg,Firsherman's Rib,image/jpeg,"Fisherman’s rib is a quick and easy rib pattern that creates a thick, reversible fabric. Due to its squishiness it’s great for winter projects like scarves, sweaters, and hats. ",,"k - Knit
+p - Purl
+k1b - Knit 1 below
+sl1p wyif - Slip 1 stitch purl wise with yarn in front
+sl1p wyib - Slip 1 stitch purl wise with yarn in back",,"Cast on any odd number of sts + 2
+Row 1: sl1p wyif, *p1, k1*, p2
+Row 2 (Right side): sl1p wyib, *k1b, p1*, k1b, k1
+Row 3 (Wrong side): Sl1p wyif, *p1, k1b*, p2
+Repeat rows 2-3 until you have reached your desired length. Bind off and weave in all ends",England,knitted rib,Intermediate,US - 8 ,Worsted
+hurdlestitch_rib,hurdlestitch_rib.jpg,Hurdle Stitch,image/jpeg,"Hurdle stitch is a simple textured knit pattern that creates a rib stitch resembling hurdles, where it gets its name from. This is a great beginner pattern that can be used in a variety of projects. ",,"k - Knit
+p - Purl",,"Cast on multiple of 2 sts
+Row 1 (Right Side): Knit all stitches
+Row 2 (Wrong Side): Knit all stitches
+Row 3: *k1, p1, rep from * to end
+Row 4: *k1, p1, rep from * to end
+Repeat rows 1-4 until you have reached your desired length. Bind off and weave in all ends.",,knitted rib,Beginner,US - 8 ,Worsted
+bamboostitch_rib,bamboostitch_rib.jpg,Bamboo Stitch,image/jpeg,"Bamboo stitch is a fairly simple knit and purl rib pattern that resembles stalks of bamboo. It can be used for a variety of projects, but it is important to note that it is not reversible!",,"k - Knit
+p - Purl
+yo - Yarn over
+psso: Pass slipped stitch over ",,"Cast on multiple of 2 sts
+Row 1 (Right side): *yo, k2, pass yo over k2, rep from * to end
+Row 2 (Wrong side) Purl all stitches
+Repeat rows 1-2 until you have reached your desired length. Bind off and weave in all ends.",,knitted rib,Beginner,US - 11,Bulky
+gingko_lace,gingko_lace.jpg,Gingko Leaf,image/jpeg,"Gingko lace is a beautiful lace pattern that while using simple stitches requires a bit of skill to create. The resulting fabric displays motifs that resemble ginkgo leaves, hence its name. This pattern would be great for scarves, shawls, and even blankets! ",,"k - Knit
+p - Purl
+yo - Yarn over
+ssk - Slip, slip, knit 
+ssp - Slip, slip purl
+k2tog - Knit 2 stitches together
+p2tog - Purl 2 stitches together ",,"Cast on multiple of 18 sts + 1
+Row 1 (Right side): p1, *k17, p1, rep from * to end
+Row 2 (Wrong side): k1, *p17, k1, rep from * to end
+Row 3: p1, *k2tog, k6, yo, k1, yo, k6, ssk, p1, rep from * to end
+Row 4: k1, *ssp, p13, p2tog, k1, rep from * to end
+Row 5: p1, *k2tog, k4, (yo, k1) 3 times, yo, k4, ssk, p1, rep from * to end
+Row 6: k1, *ssp, p13, p2tog, k1, rep from * to end. 
+Row 7: p1, *k2tog, k2, (yo, k1) 7 times, yo, k2, ssk, p1, rep from * to end
+Row 8: k1, *ssp, p17, p2tog, k1, rep from * to end
+Row 9: p1, *k2tog, k15, ssk, p1, rep from * to end
+Row 10: k1, *p17, k1, rep from * to end. 
+Row 11: p1, *k17, p1, rep from * to end. 
+Row 12: knit all stitches
+Row 13: p1, *yo, k2tog, rep from * to end
+Row 14: knit all stitches
+Repeat rows 1-14 until you have reached your desired length. Bind off and weave in all ends.",,knitted lace,Advanced,US - 8 ,Worsted
+arrowhead_lace,arrowhead_lace.jpg,Arrowhead Lace,image/jpeg,"Arrowhead lace is an easy lace pattern that creates a fabric with arrow-like lace motifs. Though it looks difficult, it is actually a fairly simple pattern. Arrowhead lace would be beautiful for any scarf, shawl, or sock pattern! ",,,,"Cast on multiple of 10 sts + 1
+Row 1 (Right side): k1, *(yo, sl1, k1, psso) twice, k1, (k2tog, yo) twice, k1, rep from * to end
+Row 2 (Wrong side): Purl all stitches
+Row 3: k2, *yo, sl1, k1, psso, yo, sl1, k2tog, psso, yo, k2tog, yo, k3, rep from * to last 9 sts, yo, sl1, k1, psso, yo, sl1, k2tog, psso, yo, k2tog, yo, k2.
+Row 4: Purl all stitches
+Repeat rows 1-4 until you have reached your desired length. Bind off and weave in all ends.",,knitted lace,Intermediate,US - 8 ,Worsted
+eyeletweave_lace,eyeletweave_lace.jpg,Eyelet Weave,image/jpeg,"Eyelet weave is a lace pattern very reminiscent of basketweave. It creates a textured pattern similar to a basket that contains some eyelets. This stitch would be great for scarves, shawls, and even socks!",,"k: Knit
+p: Purl
+sl1: Slip 1 stitch
+k2tog: Knit 2 stitches together
+psso: Pass slipped stitch over ",,"Cast on multiple of 6 sts + 1
+Row 1: (Wrong side) k2, *p3, k3, rep from * to last 5 sts, p3, k2
+Row 2 (Right side): p2, *k3, p3, rep from * to last 5 sts, k3, p2
+Row 3: k2, *p3, k3; rep from * to last 5 sts, p3, k2
+Row 4: k2, * yo, sl1, k2tog, psso, yo, K3; rep from * to last 5 sts, yo, sk2po, yo, k2
+Row 5: k2, * k3, p3, rep from * to last 5 sts, k3, p2
+Row 6: k2, * p3, k3, rep from * to last 5 sts, p3, k2
+Row 7: k2, * k3, p3, rep from * to last 5 sts, k3, p2
+Row 8: k2tog, * yo, k3, yo, sl1, k2tog, psso, rep from * to last 5 sts, yo, k3, yo, sl 1, k1, psso
+Repeat rows 1-8 until you have reached your desired length. Bind off and weave in all ends.",,knitted lace,Intermediate,US - 8 ,Worsted
+lace_leaves,lace_leaves.jpg,Lace Leaves,image/jpeg,"Lace leaves is a beautiful lace that creates a pattern of falling leaves. It’s a great stitch for someone interested in trying lace for the first time, as it only has a couple more advanced techniques. This stitch would be perfect for scarves and shawls!",,"k2tog : Knit 2 stitches together
+ssk : Slip, slip, knit
+yo : Yarn over
+cdd: centered double decrease (sl2, k1, p2sso (slip 2 stitches together, k1, then pass slipped stitches over))",,"Cast on multiple of 14 sts + 1
+Row 1 (Right side): k1, *yo, p2, k2tog, k5, ssk, p2, yo, k1, rep from * to end
+Row 2, 14 (Wrong side): *p2, k2, p7, k2, p1, rep from * to last st, p1
+Row 3: k1, *yo, k1, p2, k2tog, k3, ssk, p2, k1, yo, k1, rep from * to end
+Row 4: *p3, k2, p5, k2, p2, rep from * to last st, p1
+Row 5: k1, *yo, k2, p2, k2tog, k1, ssk, p2, k2, yo, k1, rep from * to end
+Row 6: *p4, k2, p3, k2, p3, rep from * to last st, p1
+Row 7: K1, *yo, k3, p2, cdd, p2, k3, yo, k1, rep from * to end
+Row 8: *p5, k2, p1, k2, p4, rep from * to last st, p1
+Row 9: k1, *k2, ssk, p2, yo, k1, yo, p2, k2tog, k3, rep from * to end
+Row 10: *p4, k2, p3, k2, p3, rep from * to last st, p1
+Row 11: k1, *k1, ssk, p2, k1, yo, k1, yo, k1, p2, k2tog, k2, rep from * to end
+Row 12: *p3, k2, p5, k2, p2, rep from * to last st, p1
+Row 13: k1, *ssk, p2, k2, yo, k1, yo, k2, p2, k2tog, k1, rep from * to end
+Row 14: *p2, k2, p7, k2, p1, rep from * to last st, p1
+Row 15: ssk, *p2, k3, yo, k1, yo, k3, p2, cdd, rep from * to last st, k2tog
+Row 16: *p1, k2, p9, k2, rep from * to last st, p1 Repeat Row 1-16 until you have reached your desired length. 
+Bind off and weave in all ends.",,knitted lace,Intermediate,US - 8 ,Worsted
+waves_lace,waves_lace.jpg,Waves,image/jpeg,"The wave stitch is a very pretty pattern that while looks difficult to master, can actually be a simple lace stitch. It is perfect for scarves and shawls. ",,"k: Knit
+p: Purl
+kw2: Knit stitch, wrapping yarn round the needle twice
+kw3: Knit stitch, wrapping yarn round the needle three times",,"""Cast on multiple of 8 sts + 2
+Row 1: knit all stitches
+Row 2: knit all stitches
+Row 3: k2, *kw2, kw2, kw3, kw3, kw2, kw2, k1, k1, rep from * to end
+Row 4: Knit all sts, dropping extra loops
+Row 5: knit all stitches
+Row 6: knit all sts
+Row 7: kw3, kw3, *kw2, kw2, k1, k1, kw2, kw2, kw3, kw3; rep from * to end
+Row 8: knit all sts, dropping extra loops
+Repeat rows 1-8 until you have reached your desired length. Bind off and weave in all ends.""",,knitted lace,Intermediate,US - 8 ,Worsted
+diagonal_lace,diagonal_lace.jpg,Diagonal Lace,image/jpeg,Diagonal lace stitch is a pretty and somewhat easy lace stitch. It can be a beautiful pattern for scarves in fingering weight yarn. ,,"k - Knit
+p - Purl
+yo - Yarn over
+sl1 - Slip 1 stitch
+p2tog tbl - Purl 2 stitches together through back loop",,"Cast on multiple of 8 sts + 4. 
+Row 1 (Right side): k2, *yo, sl1, k1, psso, k1, k2tog, yo, k3, rep from * to last 2 sts, k2
+Row 2: p7, *p2tog tbl, yo, p6; rep from * to last 5 sts, p2tog tbl, yo, p3
+Row 3: k4, *yo, sl1, k1, psso, k1, k2tog, yo, k3; rep from * to end
+Row 4: p5, *p2tog tbl, yo, p6; rep from * to last 7 sts, p2tog tbl, yo, p5
+Row 5: k1, *k2tog, yo, k3, yo, sl 1, k1, psso, k1; rep from * to last 3 sts, k2tog, yo, k1
+Row 6: p3, *p2tog tbl, yo, p6; rep from * to last st, p1
+Row 7: k3, *k2tog, yo, k3, yo, sl 1, k1, psso, k1; rep from * to last st, k1
+Row 8: p1, *p2tog tbl, yo, p6; rep from * to last 3 sts ,p2tog tbl, yo, p1
+Repeat rows 1-8 until you have reached your desired length. Bind off and weave in all ends.",,knitted lace,Advanced,US - 8 ,Worsted
+turkish_lace,turkish_lace.jpg,Turkish Stitch,image/jpeg,"Often called one of the easiest lace patterns, Turkish stitch is a beautiful simple pattern that creates stunning lace in one row! This stitch would be perfect for scarves, cowls, and shawls. ",,"k - Knit
+p - Purl
+sl1k - Slip 1 stitch knit wise
+psso - Pass slipped stitch over last worked stitch",,"Cast on any even number of sts. 
+Row 1 (Right side): k1, *yo, sl1k, k1, psso, rep from * to last st, k1
+Repeat row 1 until you have reached your desired length. 
+Bind off and weave in all ends. ",Turkey,knitted lace,Intermediate,US - 8 ,Worsted
