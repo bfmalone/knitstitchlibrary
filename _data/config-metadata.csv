@@ -2,6 +2,8 @@ field,display_name,browse_link,external_link
 title,Title,
 educationLevel, Difficulty, true
 description,Description,
+abbreviations, Abbreviations,
+specialinstructions, Special Instructions,
 patterninstructions, Pattern Instructions,
 subject,Subjects,true
 needlesize, Example Needle Size
