@@ -13,7 +13,8 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+The knit stitch library is a resource for everyone interested in knitting, whether they are just starting out or are more advanced and looking for inspiration. All stitches shown have detailed instructions, pattern abbreviations, difficulty ratings, ways to use this stitch, as well as information about the origin of the stitch if known. 
 
-The Knit Stitch Library was created to exhibit various knit stitches that one might use in knitting, whether the knitter is starting out, coming back to the basics, or just looking for simple instructions for their favorite patterns. 
+Each example was hand-knit by the creator of this collection, and specifics of the samples made are included under each entry. 
 
-This collection was consists of over 20 knitting stitches that range in complexity and type. The bulk of these stitches are either simple knit and purl patterns, ribbed and zigzag stitches, cable stitches, and several lace patterns. Each page also has detailed instructions to help you with your knitting!
+I hope you enjoy using this resource!
