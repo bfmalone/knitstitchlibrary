@@ -4,7 +4,7 @@ layout: about
 permalink: /people.html
 ---
 
-##About the Creator
+## About the Creator
 
 Brandis Malone is a first year graduate student in the dual Russian and Eastern European and library science program specializing in archives and records management. She currently works at the Lilly Library as a desk attendant and technical services assitant, as well as a records management assistant at Indiana University's Archives. In her freetime all she does is knit to an unhealthy degree, and cry over her digital libraries assignment.
 
