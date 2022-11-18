@@ -1,6 +1,6 @@
 ---
 title: Online Resources
-layout: page
+layout: about
 permalink: /onlineresources.html
 ---
 
