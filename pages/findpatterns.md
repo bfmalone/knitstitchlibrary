@@ -4,4 +4,4 @@ layout: page
 permalink: /findpatterns.html
 ---
 
-Where to Find Patterns,/findpatterns.html,Related Resources
+ravelry is a thing you should use
