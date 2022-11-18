@@ -1,6 +1,6 @@
 ---
 title: Where to Find Patterns
-layout: page
+layout: about
 permalink: /findpatterns.html
 ---
 
