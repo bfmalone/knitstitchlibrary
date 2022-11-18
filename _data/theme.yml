@@ -58,9 +58,9 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,format,description,abbreviations,specialinstructions,patternInstructions,subject,educationLevel,"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+metadata-facets-fields: "subject,educationLevel,patternInstructions"
 
 ##########
 # ADVANCED OPTIONS
