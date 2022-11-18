@@ -3,7 +3,7 @@ title: About the collection
 layout: about
 permalink: /about.html
 ---
-{% include feature/jumbotron.html objectid="dishtowels.jpg" %}
+{% include feature/jumbotron.html image="dishtowels.jpg" %}
 
 ## About the Collection
 The knit stitch library is a resource for everyone interested in knitting, whether they are just starting out or are more advanced and looking for inspiration. All stitches shown have detailed instructions, pattern abbreviations, difficulty ratings, ways to use this stitch, as well as information about the origin of the stitch if known. 
