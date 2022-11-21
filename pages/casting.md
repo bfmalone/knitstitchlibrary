@@ -1,5 +1,5 @@
 ---
-title: Cast on, Cast off
+title: Cast on Cast off
 layout: page
 permalink: /casting.html
 ---
