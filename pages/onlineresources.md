@@ -3,7 +3,7 @@ title: Online Resources
 layout: about
 permalink: /onlineresources.html
 ---
-{% include feature/jumbotron.html objectid="/objects/basketweave_knitpurl.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/garter_zigzag.jpg" %}
 ## Online Resources
 The internet is by far the most valuable source of information about knitting today. There are hundreds if not thousands of different YouTube channels dedicated to knitting, knitting inspiration on practically every social media site, and handy instructions littered about the internet. 
 
