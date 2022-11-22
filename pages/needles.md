@@ -7,9 +7,11 @@ permalink: /needles.html
 ## Needles
 Knitting is done with two needles, and the type and material of your needles are very important relates to your project and yarn. There are also several different ways to knit with your needles, and that method depends on what is most comfortable to the knitter. 
 
+
 ## Needle Sizes
 Needles are measured in a variety of different ways. Universally, milimeter measurements of the diameter of needles is the standard, but there are also regional differences. The United States, Canada, the United Kingdom, and Japan all have their own measurement systems, and you can find conversion charts online. 
 In US measurements, needles range from US size 0 all the way up to 50. Oftentimes on needles you buy in the States you’ll see the US measurement along with the diameter. The needle size you’ll need depends on the type of yarn you’re doing to be using. So smaller needles will be used for things like socks and mittens that use thin yarn, and larger needles can be used for big projects such as blankets and sweaters. 
+
 
 ## Needle Types
 When beginning a project one of the important things to consider is the type of needle you plan to use for your project. Generally speaking, there are three types of needles: straight needles, double pointed needles (DPNs), and circular needles. 
