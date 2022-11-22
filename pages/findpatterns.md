@@ -9,7 +9,7 @@ You can find knitting patterns both in print and online, so here are a few place
 
 ### Patterns Online
 <ul>
-<li><a href="https://www.ravelry.com/account/login">Ravelry</a><li>
+<li><a href="https://www.ravelry.com/account/login">Ravelry</a>
   <li>This is a helpful website where you can make an account and purchase or use free patterns! It works as a pattern repository and also partly as a social site where you can share your projects</li>
 <li><a href="https://www.lovecrafts.com/en-us/l/knitting/knitting-patterns/free-knitting-patterns">Free Knitting Patterns on LoveCrafts</a></li> 
 <li><a href="https://www.yarnspirations.com/patterns?prefn1=patternSkillTypeString&prefv1=Knit">Yarnspiration Knitting Patterns</a></li> 
