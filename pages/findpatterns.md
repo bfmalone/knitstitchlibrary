@@ -16,8 +16,8 @@ You can find knitting patterns both in print and online, so here are a few place
 </ul>
 
 
-
 ### Patterns in Print
+
 <ul>
 <li><a href="https://verypink.com/](https://store.vogueknitting.com/c-2-books.aspx">Vogue Knitting Books</a></li> 
 <li><a href="https://www.amazon.com/Knitting-National-Parks-Easy-Follow/dp/1681888432/ref=asc_df_1681888432/?tag=hyprod-20&linkCode=df0&hvadid=533377859038&hvpos=&hvnetw=g&hvrand=14535694131927747244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016165&hvtargid=pla-1460516542953&psc=1">Knitting the National Parks</a></li>
