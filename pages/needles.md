@@ -25,10 +25,9 @@ When beginning a project one of the important things to consider is the type of 
 <dd>And finally the last type of knitting needles are circular needles. Essentially these are two straight/DPN needles attached by a cord. Often these cords can be changed out and vary in length so you can use them for basically any project, flat or round. Knitting with these in the round is the preferred method for many people, and it’s referred to as the Magic Loop Method.  You can use these needles for things large things like sweaters, blankets, shawls, or smaller projects like hats and socks.<dd>
 <dl>
 
-
 ## Needle Material
-Another important thing to consider with needles is the materials that they’re made of. Knitting needles can be made out of wood and metal, and there are different benefits to each. 
-
+Another important thing to consider with needles is the materials that they’re made of. Knitting needles can be made out of wood and metal, and there are different benefits to each.
+   
 <dl>
     <dt>Wooden Knitting Needles</dt>
     <dd>Wooden needles are excellent for small projects and beginner projects, because they have some grip. Compared to metal needles that are a bit slippery, stitches are less likely to slide off needles, making them nice to work with. One thing to note is that it can be a bit slow to knit with these due to their grippinesss..</dd>
