@@ -1,14 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Stitch,
+othername, Also Known As
 educationLevel, Difficulty, true
 description,Description,
 abbreviations, Abbreviations,
 specialinstructions, Special Instructions,
 patterninstructions, Pattern Instructions,
 subject,Subjects,true
+origin,Origin,true
 needlesize, Example Needle Size
 yarnweight, Example Yarn Weight
-origin, Origin, true
 identifier,Source Identifier,
 type,Type,
 format,Format,
