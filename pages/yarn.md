@@ -8,10 +8,6 @@ Yarn is by far the most important aspect of any knitting project! You can find y
 ## Yarn Weight
 Oftentimes patterns will have a recommended yarn that the creator used, and that information will also have the yarn weight and yardage required for the project. Yarn weight refers to the thickness of yarn, and it ranges from incredibly thin (lace) to very thick (jumbo). The weight you’ll need will vary from project to project. For example, socks are normally made with fingering weight yarn, sweaters with aran or worsted yarn, and blankets with bulky yarn. 
 
-{% include feature/image.html objectid="mercury_socks" width="75" caption="Socks made with fingering weight yarn." %}
-
-{% include feature/image.html objectid="holiday_sweater" width="75" caption="Sweater made with bulky weight yarn." %}
-
 You can easily identify the weight of a skein of yarn by the packaging, as it should list the weight by either numbers or terms. Another important thing to look out for when buying yarn is the yardage you’ll need. Skeins of yarn can range from about 120 all the way up to 480, but it depends on the yarn's weight, quality, and price. 
 
 ## Yarn Material
