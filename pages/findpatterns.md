@@ -22,8 +22,8 @@ You can find knitting patterns both in print and online, so here are a few place
 <li><a href="https://verypink.com/](https://store.vogueknitting.com/c-2-books.aspx">Vogue Knitting Books</a></li> 
 <li><a href="https://www.amazon.com/Knitting-National-Parks-Easy-Follow/dp/1681888432/ref=asc_df_1681888432/?tag=hyprod-20&linkCode=df0&hvadid=533377859038&hvpos=&hvnetw=g&hvrand=14535694131927747244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016165&hvtargid=pla-1460516542953&psc=1">Knitting the National Parks</a></li>
   <li><a href="https://www.amazon.com/s?k=52+weeks+of+socks&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAzICT60tFNWtF85EieS5Bdd6fMy6it4SNxlf5JbulUZlC5ExsVK0d8aAq6TEALw_wcB&hvadid=453121563352&hvdev=c&hvlocphy=9016165&hvnetw=g&hvqmt=e&hvrand=10699738764118776632&hvtargid=kwd-952850993717&hydadcr=7497_9612537&tag=googhydr-20&ref=pd_sl_81g5spp1ts_e">52 Weeks of Socks</a></li> 
+  li><a href="https://www.amazon.com/Knitters-Handy-Book-Top-Down-Sweaters/dp/1596684836/ref=sr_1_3_sspa?gclid=Cj0KCQiAg_KbBhDLARIsANx7wAyEh_i3aww9SlEmth_ZgfHzAdQWQIJjQ4oYExbLcWbkeDGkhpUI2R8aAlCZEALw_wcB&hvadid=241629259127&hvdev=c&hvlocphy=9016165&hvnetw=g&hvqmt=e&hvrand=16701055656138438520&hvtargid=kwd-299131137286&hydadcr=22566_10355100&keywords=the+principles+of+knitting&qid=1669116133&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1">The Knitter's Handy Book of Top-Down Sweaters</a></li>
 </ul>
-
 
 
 These are just a few resources to get you started! Finding patterns can be super fun and there is a lot of variety. One thing to note is that patterns can use either written or charted instructions. Both are good but you'll need to find what works best for you. 
