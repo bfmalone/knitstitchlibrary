@@ -12,10 +12,10 @@ Oftentimes patterns will have a recommended yarn that the creator used, and that
 
 <figure>
   
-<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater" style="width:25">
-  
-<figcaption align = "center"><b>Sweater knit with bulky weight yarn.</b></figcaption>
-  
+<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater" width="600" height="400">
+
+  <figcaption align = "center"><b>Sweater knit with bulky weight yarn.</b></figcaption>
+
 </figure>
 
 You can easily identify the weight of a skein of yarn by the packaging, as it should list the weight by either numbers or terms. Another important thing to look out for when buying yarn is the yardage you’ll need. Skeins of yarn can range from about 120 all the way up to 480, but it depends on the yarn's weight, quality, and price. 
