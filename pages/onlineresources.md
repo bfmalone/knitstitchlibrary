@@ -20,7 +20,7 @@ Here are some helpful online resources for:
 ### Techniques & Tutorials
 
 <ul>
-<li><a href="(https://verypink.com/">Very Pink Knits</a></li> 
+<li><a href="https://verypink.com/">Very Pink Knits</a></li> 
 <li><a href="https://sheepandstitch.com/how-to-knit/)">Sheep and Stitch Beginner’s Guide</a></li>
   <li><a href="https://www.goodknitkisses.com/">Good Knit Kisses</a></li> 
 </ul>
