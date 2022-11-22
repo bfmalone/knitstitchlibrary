@@ -3,7 +3,7 @@ title: Where to Find Patterns
 layout: about
 permalink: /findpatterns.html
 ---
-{% include feature/jumbotron.html objectid="/objects/garter_knitpurl.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/arrowhead_lace.jpg" %}
 ## Finding Patterns
 You can find knitting patterns both in print and online, so here are a few places to look if you’re just starting out. 
 
