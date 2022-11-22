@@ -11,10 +11,7 @@ Yarn is by far the most important aspect of any knitting project! You can find y
 Oftentimes patterns will have a recommended yarn that the creator used, and that information will also have the yarn weight and yardage required for the project. Yarn weight refers to the thickness of yarn, and it ranges from incredibly thin (lace) to very thick (jumbo). The weight you’ll need will vary from project to project. For example, socks are normally made with fingering weight yarn, sweaters with aran or worsted yarn, and blankets with bulky yarn. 
 
 <figure>
-<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater" img {
-  max-width: 600;
-  height: 400;
-}>
+<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater" style="width:25">
 <figcaption align = "center"><b>Sweater knit with bulky weight yarn.</b></figcaption>
 </figure>
 
