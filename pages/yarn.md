@@ -1,6 +1,8 @@
+---
 title: Yarn
 layout: page
 permalink: /yarn.html
+---
 
 ## Yarn
 Yarn is by far the most important aspect of any knitting project! You can find yarn in a variety of different sizes, colors, types, and lengths to suit any project you’re working on. For many people looking for yarn can be a really fun part of their project. It can be as simple as picking a pattern, figuring out how much yarn you need, and wandering down to your local craft store to purchase some in your favorite color. You can also visit a special yarn store for a more curated selection or you can even go online to look for exactly what you want and get it shipped at your convenience. 
