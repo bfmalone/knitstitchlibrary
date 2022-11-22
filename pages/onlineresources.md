@@ -12,9 +12,9 @@ Here are some helpful online resources for:
 ### Knit Stitches
   
 <ul>
-<li>[Knitting Stitch Patterns](https://www.knittingstitchpatterns.com/)</li>
-<li>[Nimble Needles Knitting Stitch Library](https://nimble-needles.com/knitting-stitches-and-patterns/)</li> 
-<li>[New Stitch A Day](https://newstitchaday.com/)</li> 
+<li><a href="https://www.w3schools.com/](https://www.knittingstitchpatterns.com/)">Knitting Stitch Patterns</a></li>
+<li><a href="https://nimble-needles.com/knitting-stitches-and-patterns/">Nimble Needles Knitting Stitch Library</a></li> 
+<li><a href="https://newstitchaday.com/>"New Stitch A Day</a></li> 
 </ul>
   
 ### Techniques & Tutorials
