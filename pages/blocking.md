@@ -9,7 +9,23 @@ Blocking is the process of washing your work and then stretching and/or pinning 
 
 So for example, if you were to make wool socks you would let them sit in cold water with wool wash for about 20 minutes, and then get rid of the excess water and let them block on special sock blockers to maintain their size and shape. 
 
-If you were to make a detailed wool lace shawl, you would follow similar washing instructions and then pin the shawl to foam blocks to better display the pattern and stretch the shawl to the size you want. 
+<figure>
+  
+<img src="assets/img/green_socks.jpg" alt="green_socks">
+
+  <figcaption align = "center"><b>Blocking socks.</b></figcaption>
+
+</figure>
+
+Or if you were to make a detailed wool lace shawl, you would follow similar washing instructions and then pin the shawl to foam blocks to better display the pattern and stretch the shawl to the size you want. 
+
+<figure>
+  
+<img src="assets/img/shawl_blocking.jpg" alt="shawl_blocking">
+
+  <figcaption align = "center"><b>Blocking shawl with pins.</b></figcaption>
+
+</figure>
 
 If your item was made out of a material that did not need to be blocked like this or could be washed normally, you would simply follow the care instructions with that particular fiber. 
 
