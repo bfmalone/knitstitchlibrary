@@ -11,20 +11,10 @@ So for example, if you were to make wool socks you would let them sit in cold wa
 
 Or if you were to make a detailed wool lace shawl, you would follow similar washing instructions and then pin the shawl to foam blocks to better display the pattern and stretch the shawl to the size you want. 
 
-<figure>
-  
-<img src="assets/img/green_socks.jpg" alt="green_socks">
-
-  <figcaption align = "left"><b>Blocking socks.</b></figcaption>
-
-</figure>
-
-<figure>
-  
-<img src="assets/img/shawl_blocking.jpg" alt="shawl_blocking">
-
-  <figcaption align = "right"><b>Blocking shawl with pins.</b></figcaption>
-
+<figure class="half" style="display:flex">
+    <img style="width:image width px" src="assets/img/green_socks.jpg">
+    <img style="width:image width px" src="assets/img/shawl_blocking.jpg">
+    <figcaption>Blocking socks with blockers and shawl with pins.</figcaption>
 </figure>
 
 If your item was made out of a material that did not need to be blocked like this or could be washed normally, you would simply follow the care instructions with that particular fiber. 
