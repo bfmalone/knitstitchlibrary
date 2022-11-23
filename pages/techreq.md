@@ -14,7 +14,7 @@ The metadata for this project was deliberately chosen and added to make this sit
 
 Below are the elements implemented in this site and their description within the context of this collection. 
 
-### Dublin Core elements
+## Dublin Core elements
 <dl>
     <dt>Title - Required, 1 or more.<dt>
 <dd>The title element is for the title or name of an item. In the case of this collection the main title is the most well-known name for a certain stitch, and if there are variant names the item has an additional title entry.<dd> 
@@ -33,8 +33,7 @@ Below are the elements implemented in this site and their description within the
 <dd>Example: Beginner, Intermediate, Advanced..<dd>
 <dl> 
 
-    
-### Custom Elements
+## Custom Elements
 <dl>
     <dt>Abbreviations - Required, 1 or more.<dt>
 <dd>Because knitting patterns rely on various abbreviations of terms each pattern has the abbreviations listed before pattern instructions.<dd> 
