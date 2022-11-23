@@ -12,7 +12,7 @@ Oftentimes patterns will have a recommended yarn that the creator used, and that
 
 <figure>
   
-<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater">
+<img src="assets/img/holiday_sweater.jpg" alt="holiday_sweater" width="100">
 
   <figcaption align = "center"><b>Sweater knit with bulky weight acrylic yarn.</b></figcaption>
 
