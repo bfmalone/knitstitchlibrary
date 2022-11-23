@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Stitch,
-othername, Also Known As
+othername, Also Known As,
 educationLevel, Difficulty, true
 description,Description,
 abbreviations, Abbreviations,
@@ -10,6 +10,4 @@ subject,Subjects,true
 origin,Origin,true
 needlesize, Example Needle Size
 yarnweight, Example Yarn Weight
-identifier,Source Identifier,
-type,Type,
 format,Format,
