@@ -33,6 +33,7 @@ Below are the elements implemented in this site and their description within the
 <dd>Example: Beginner, Intermediate, Advanced..<dd>
 <dl> 
 
+    
 ### Custom Elements
 <dl>
     <dt>Abbreviations - Required, 1 or more.<dt>
