@@ -1,8 +1,9 @@
 ---
 title: Technical Requirements
-layout: about
+layout: page
 permalink: /techreq.html
 ---
+{% include feature/jumbotron.html objectid="dandelion_flowers" header="Technical Requirements" %}
 
 ## Collection Items
 The items in this collection were chosen, hand-knit, and photographed by the creator of this collection. Because of this, all of the sample photographs shown are owned by the creator, but the stitches are public domain. and the stitches are public domain. All items in this collection have undergone slight enhancements, which are noted below. 
