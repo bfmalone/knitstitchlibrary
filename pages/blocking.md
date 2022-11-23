@@ -11,12 +11,6 @@ So for example, if you were to make wool socks you would let them sit in cold wa
 
 Or if you were to make a detailed wool lace shawl, you would follow similar washing instructions and then pin the shawl to foam blocks to better display the pattern and stretch the shawl to the size you want. 
 
-<figure class="half" style="display:flex">
-    <img style="width:image width px" src="assets/img/green_socks.jpg">
-    <img style="width:image width px" src="assets/img/shawl_blocking.jpg">
-    <figcaption>Blocking socks with blockers and shawl with pins.</figcaption>
-</figure>
-
 If your item was made out of a material that did not need to be blocked like this or could be washed normally, you would simply follow the care instructions with that particular fiber. 
 
 When you’re done blocking, you’ll want to let your finished piece sit until it's completely dry before removing it. After that, you can wear it around or store it in an air-tight container. The next time you wash your garment, you’ll need to follow similar steps to maintain the quality of your piece. 
